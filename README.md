@@ -9,26 +9,26 @@ This project is part of my transition from healthcare BPO to IT automation testi
 ## ✅ What’s Included
 
 - **Login Tests**
-    - ✔️ Positive Login Test
-    - ❌ Negative Login Test
+  - ✔️ Positive Login Test
+  - ❌ Negative Login Test
 
 - **Exception Handling Tests**
-    - 🔍 `NoSuchElementException`
-    - 🚫 `ElementNotInteractableException`
-    - ⚠️ `InvalidElementStateException`
-    - 🔄 `StaleElementReferenceException`
-    - ⏳ `TimeoutException`
+  - 🔍 `NoSuchElementException`
+  - 🚫 `ElementNotInteractableException`
+  - ⚠️ `InvalidElementStateException`
+  - 🔄 `StaleElementReferenceException`
+  - ⏳ `TimeoutException`
 
 - **Test Suites**
-    - 🔥 Smoke Test Suite
-    - 🧪 Full Regression Test Suite
+  - 🔥 Smoke Test Suite
+  - 🧪 Full Regression Test Suite
 
 ## 🛠 Tech Stack
 
-- **Language**: Java
-- **Frameworks**: Selenium WebDriver, TestNG
-- **Build Tool**: Maven
-- **IDE**: IntelliJ IDEA / Eclipse
+- **Language**: Java  
+- **Frameworks**: Selenium WebDriver, TestNG  
+- **Build Tool**: Maven  
+- **IDE**: IntelliJ IDEA / Eclipse  
 - **Version Control**: Git & GitHub
 
 ## 📁 Repository Structure
