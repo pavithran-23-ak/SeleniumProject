@@ -1,6 +1,6 @@
 # 🧪 SeleniumProject
 
-Welcome to **SeleniumForBeginners** — a hands-on automation testing project built to demonstrate core Selenium WebDriver capabilities using Java. This repository showcases practical test scripts and exception handling techniques that are essential for real-world web application testing.
+Welcome to **SeleniumProject** — a hands-on automation testing project built to demonstrate core Selenium WebDriver capabilities using Java. This repository showcases practical test scripts and exception handling techniques that are essential for real-world web application testing.
 
 ## 🚀 Project Overview
 
